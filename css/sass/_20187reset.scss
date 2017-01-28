@@ -1,0 +1,28 @@
+html{
+	line-height: 1;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+img{
+	border: 0;
+}
+.home-title, .post-title{
+	margin: 0;
+	font: inherit;
+}
+#copyright-text{
+	margin: 0;
+}
+.menu, .sub-menu, .left-info, .social, .right-info, .tabs{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+img.alignright { float: right; margin: 0 0 1em 1em; }
+img.alignleft { float: left; margin: 0 1em 1em 0; }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignright { float: right; }
+.alignleft { float: left; }
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }
